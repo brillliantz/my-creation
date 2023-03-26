@@ -1,7 +1,7 @@
 ---
 title: "大一下结束时的一些想法"
-date: 2015-07-20
-draft: false
+pubDatetime: 2015-07-20
+description: ""
 tags:
   - methodology
   - career
