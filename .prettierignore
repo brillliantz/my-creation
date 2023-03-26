@@ -11,3 +11,7 @@
 !.prettierrc
 !.eslintrc.js
 !README.md
+
+public/favicon.ico
+public/site-og.jpg
+
