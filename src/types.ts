@@ -26,6 +26,7 @@ export type SocialMedia =
   | "LinkedIn"
   | "Mail"
   | "Twitter"
+  | "Weibo"
   | "Twitch"
   | "YouTube"
   | "WhatsApp"
