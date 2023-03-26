@@ -2,6 +2,7 @@
 title: "消费主义"
 pubDatetime: 2019-09-08
 description: ""
+featured: true
 tags:
   - 消费主义
 ---
