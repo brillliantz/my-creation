@@ -1,7 +1,7 @@
 ---
 title: "大一上结束时的一些想法"
-date: 2014-12-30
-draft: false
+pubDatetime: 2014-12-30
+description: ""
 tags:
   - 阶段总结
 ---

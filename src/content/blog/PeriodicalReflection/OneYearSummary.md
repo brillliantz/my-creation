@@ -1,7 +1,7 @@
 ---
 title: "毕业工作一年的总结"
-date: 2019-10-07
-draft: false
+pubDatetime: 2019-10-07
+description: ""
 tags:
   - 阶段总结
 ---

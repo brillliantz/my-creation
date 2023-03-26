@@ -1,7 +1,7 @@
 ---
 title: "反思录--相信复利的力量"
-date: 2019-01-04
-draft: false
+pubDatetime: 2019-01-04
+description: ""
 ---
 
 每天都应该反思进步。

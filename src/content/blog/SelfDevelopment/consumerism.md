@@ -1,7 +1,7 @@
 ---
 title: "消费主义"
-date: 2019-09-08
-draft: false
+pubDatetime: 2019-09-08
+description: ""
 tags:
   - 消费主义
 ---

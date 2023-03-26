@@ -1,7 +1,7 @@
 ---
 title: "自我激励集锦"
-date: 2017-02-05
-draft: false
+pubDatetime: 2017-02-05
+description: ""
 ---
 
 平常会不时遇到能给人打鸡血的东西，都放在这里，可备不时查看。

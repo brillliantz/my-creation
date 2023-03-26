@@ -1,7 +1,7 @@
 ---
 title: 用企业微信API开发微信机器人
-date: 2017-02-26
-draft: false
+pubDatetime: 2017-02-26
+description: ""
 tags:
   - WeChat
   - Python

@@ -1,7 +1,7 @@
 ---
 title: "合理投资我们宝贵的注意力"
-date: 2020-01-26
-draft: false
+pubDatetime: 2020-01-26
+description: ""
 tags:
   - 时间管理
   - 注意力管理

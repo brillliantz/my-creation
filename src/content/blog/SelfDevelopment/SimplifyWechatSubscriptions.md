@@ -1,7 +1,7 @@
 ---
 title: "取关的公众号们"
-date: 2018-11-10
-draft: false
+pubDatetime: 2018-11-10
+description: ""
 ---
 
 精简关注的公众号，不要想着：留着可能有用/可能能学到什么
