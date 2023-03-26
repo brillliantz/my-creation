@@ -2,6 +2,7 @@
 title: "业余爱好的高低和艺术的雅俗"
 pubDatetime: 2019-11-25
 description: ""
+featured: true
 tags:
   - 爱好
   - 艺术
