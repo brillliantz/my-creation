@@ -2,6 +2,7 @@
 title: "人生意义和追求幸福"
 pubDatetime: 2023-06-26
 description: ""
+featured: true
 tags:
   - 阶段总结
 ---
