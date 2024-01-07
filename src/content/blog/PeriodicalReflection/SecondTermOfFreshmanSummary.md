@@ -1,5 +1,6 @@
 ---
 title: "大一下结束时的一些想法"
+slug: undergraduate-first-year
 pubDatetime: 2015-07-20
 description: ""
 tags:

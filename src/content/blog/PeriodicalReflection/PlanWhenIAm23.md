@@ -1,5 +1,6 @@
 ---
 title: "23岁的一些计划"
+slug: year-23
 pubDatetime: 2018-09-23
 description: ""
 tags:

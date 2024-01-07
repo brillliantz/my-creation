@@ -1,5 +1,6 @@
 ---
 title: "业余爱好的高低和艺术的雅俗"
+slug: habits
 pubDatetime: 2019-11-25
 description: ""
 featured: true

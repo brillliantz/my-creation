@@ -1,5 +1,6 @@
 ---
 title: "静态博客搭建指南"
+slug: static-blog
 pubDatetime: 2020-01-27
 description: ""
 ---

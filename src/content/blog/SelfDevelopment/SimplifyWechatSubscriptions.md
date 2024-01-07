@@ -1,5 +1,6 @@
 ---
 title: "取关的公众号们"
+slug: unsubscribed-wechats
 pubDatetime: 2018-11-10
 description: ""
 ---

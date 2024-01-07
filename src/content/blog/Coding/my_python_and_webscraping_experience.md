@@ -2,6 +2,7 @@
 title: "贯穿大学生涯的Python和爬虫"
 pubDatetime: 2017-09-10
 description: ""
+slug: python-and-webscraping
 tags:
   - Python
   - webscraping

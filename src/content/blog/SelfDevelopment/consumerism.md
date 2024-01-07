@@ -1,5 +1,6 @@
 ---
 title: "消费主义"
+slug: consumerism
 pubDatetime: 2019-09-08
 description: ""
 featured: true

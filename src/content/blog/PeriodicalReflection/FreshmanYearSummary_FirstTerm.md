@@ -1,5 +1,6 @@
 ---
 title: "大一上结束时的一些想法"
+slug: undergraduate-first-term
 pubDatetime: 2014-12-30
 description: ""
 tags:

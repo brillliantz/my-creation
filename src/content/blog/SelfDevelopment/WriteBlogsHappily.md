@@ -1,5 +1,6 @@
 ---
 title: "开博客的动机"
+slug: why-blog
 pubDatetime: 2018-06-27
 description: ""
 ---

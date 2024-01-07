@@ -1,5 +1,6 @@
 ---
 title: 用企业微信API开发微信机器人
+slug: wechat-api
 pubDatetime: 2017-02-26
 description: ""
 tags:

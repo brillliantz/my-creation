@@ -1,5 +1,6 @@
 ---
 title: "合理投资我们宝贵的注意力"
+slug: attention
 pubDatetime: 2020-01-26
 description: ""
 featured: true
