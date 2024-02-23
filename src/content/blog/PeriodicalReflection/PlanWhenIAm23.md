@@ -3,8 +3,6 @@ title: "23岁的一些计划"
 slug: year-23
 pubDatetime: 2018-09-23
 description: ""
-tags:
-  - 阶段总结
 ---
 
 What I am thinking when I am twenty-three years old.

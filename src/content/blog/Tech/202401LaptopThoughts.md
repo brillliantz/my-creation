@@ -4,12 +4,6 @@ slug: laptop-2024
 pubDatetime: 2024-01-07
 description: ""
 featured: true
-tags:
-  - 科技
-  - 笔记本
-  - 由艺入道
-  - Apple
-  - 联想
 ---
 
 ## 开篇

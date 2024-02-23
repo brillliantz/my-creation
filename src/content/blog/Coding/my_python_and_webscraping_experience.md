@@ -3,9 +3,6 @@ title: "贯穿大学生涯的Python和爬虫"
 pubDatetime: 2017-09-10
 description: ""
 slug: python-and-webscraping
-tags:
-  - Python
-  - webscraping
 ---
 
 记录了 Python 学习的历程和用爬虫解决实际问题的经历.

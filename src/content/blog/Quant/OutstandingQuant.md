@@ -4,6 +4,4 @@ slug: outstanding-quant
 pubDatetime: 2020-01-26
 description: ""
 draft: true
-tags:
-  - quant
 ---

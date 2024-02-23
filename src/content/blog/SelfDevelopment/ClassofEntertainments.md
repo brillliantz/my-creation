@@ -4,9 +4,6 @@ slug: habits
 pubDatetime: 2019-11-25
 description: ""
 featured: true
-tags:
-  - 爱好
-  - 艺术
 ---
 
 什么是消费型和生产型爱好？爱好分高低吗？进一步讲烹饪音乐文学艺术分高低贵贱雅俗吗？

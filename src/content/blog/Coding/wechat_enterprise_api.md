@@ -3,9 +3,6 @@ title: 用企业微信API开发微信机器人
 slug: wechat-api
 pubDatetime: 2017-02-26
 description: ""
-tags:
-  - WeChat
-  - Python
 ---
 
 记录了 Python 学习的历程和用爬虫解决实际问题的经历.

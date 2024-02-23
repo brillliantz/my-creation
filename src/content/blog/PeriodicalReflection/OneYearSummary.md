@@ -3,8 +3,6 @@ title: "毕业工作一年的总结"
 slug: one-year-af-work
 pubDatetime: 2019-10-07
 description: ""
-tags:
-  - 阶段总结
 ---
 
 方法论、价值观、事业与生活。
