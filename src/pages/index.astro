@@ -22,7 +22,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>About This Website</h1>
+      <h1></h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -40,17 +40,15 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        输出想法的地方.
-        一是通过写作帮助自己更好地深度思考，二是作为一个其他人了解我的窗口，肯定会结识更多有趣的人。
+      这里的文章已全部迁移到更清晰易读、每周更新、内容丰富的个人主页，请移步：
+      <a href="/writing" class="hover:underline" style="font-weight: bold; color: #e14a39;">Bingnan's Digital Garden</a>
       </p>
       <p>
-        我感兴趣： 1.
-        在资本主义和消费主义通过互联网殖民注意力的时代，个人如何独善其身，追寻happiness而不只是pleasure；
-        2.
-        什么样的规律就像万有引力一样是从历史到未来不断重复的；未来的世界会有什么全新的事物；
-        3.
-        通过数据和统计理解世界，通过广义的trading来获取超额认知带来的超额收益，通过运动保持年轻健康的身体。
+      My blog is upgraded and migrated to a more clear, up-to-date and topics-rich version at:
+      <a href="/writing" class="hover:underline" style="font-weight: bold; color: #e14a39;">Bingnan's Digital Garden</a>.
+      Posts below will no longer be updated.
       </p>
+
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (

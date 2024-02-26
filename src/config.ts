@@ -1,10 +1,10 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://bingnan.vercel.app/",
+  website: "https://bingnan.xyz/",
   author: "Bingnan",
   desc: "Read, Think and Write.",
-  title: "Bingnan's Creation",
+  title: "Bingnan's Blog",
   ogImage: "site-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 20,
@@ -24,21 +24,27 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
-    name: "Weibo",
-    href: "https://weibo.com/u/2621383013",
-    linkTitle: `${SITE.title} on Weibo`,
+    name: "Twitter",
+    href: "https://twitter.com/brillliantz",
+    linkTitle: `Me on Twitter`,
     active: true,
   },
   {
-    name: "Twitter",
-    href: "https://twitter.com/brillliantz",
-    linkTitle: `${SITE.title} on Twitter`,
+    name: "Mail",
+    href: "mailto:me@bingnan.xyz",
+    linkTitle: `Email me`,
+    active: true,
+  },
+  {
+    name: "Weibo",
+    href: "https://weibo.com/u/2621383013",
+    linkTitle: `Me on Sina-Weibo`,
     active: true,
   },
   {
     name: "Github",
     href: "https://github.com/brillliantz",
-    linkTitle: ` ${SITE.title} on Github`,
+    linkTitle: ` $Me on Github`,
     active: true,
   },
 ];
